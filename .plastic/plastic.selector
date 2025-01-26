@@ -1,0 +1,4 @@
+repository "Survive Around Zombie@NCrew@cloud"
+  path "/"
+    br "/main"
+    co "/main"
